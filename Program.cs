@@ -65,6 +65,7 @@ internal class Program
         Console.WriteLine("[Q] Avsluta");
         Console.Write("> ");
     }
+    //----------Metod konvertera sträng -------------
     public static int TryGetInt(string text)
     {
         int result = 0;
